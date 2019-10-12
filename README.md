@@ -222,12 +222,12 @@ $> yarn add ami.js
 
 ```
 
-*Note*: you might need to include [babel](https://github.com/babel/babel) transforms in you build process.
+*Note*: you might need to include [babel](https://github.com/babel/babel) transs in you build process.
 
 ```javascript
 
 // app.js
-import * as AMI form 'ami.js';
+import * as AMI from 'ami.js';
 window.console.log('Ready to rock!!');
 
 ```
